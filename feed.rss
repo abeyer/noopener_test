@@ -9,5 +9,10 @@
        <link>https://abeyer.github.io/noopener_test/entry.html</link>
        <description>bad link in rss description: &lt;a href="https://abeyer.github.io/noopener_test/bad.html"&gt;click me&lt;/a&gt;</description>
     </item>
+    <item>
+       <title>Bad Entry</title>
+       <link>https://abeyer.github.io/noopener_test/badentry.html</link>
+       <description>A bad entry</description>
+    </item>
   </channel>
 </rss>
